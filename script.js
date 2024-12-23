@@ -9,7 +9,7 @@ let countdown = 3;
 const typingText = `
     Selamat Ulang Tahun Medinaaa.. Cie udah 15 tahun aja kamuu.. Semoga kamu sehat selaluu, panjang umuur,selalu ceriaa, makin imuuut.. makin gloww uup Amiin.. aku engga tau mau ngomong apa lagiii.... lop uu medin, i will miss youuu
     
-    ♡From Apip
+    ♡From Apip♡
 `;
 
 // Hitungan mundur
